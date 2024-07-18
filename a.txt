@@ -7,4 +7,3 @@ https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt
 https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt
-http://www.socks24.org/feeds/posts/default
