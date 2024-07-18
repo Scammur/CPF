@@ -13,4 +13,3 @@ http://www.socks24.org/feeds/posts/default
 https://www.freeproxychecker.com/result/socks4_proxies.txt
 http://worm.rip/socks4.txt
 https://www.freeproxychecker.com/result/socks4_proxies.txt
-http://k2ysarchive.xyz/proxy/socks4.txt
